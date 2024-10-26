@@ -1,0 +1,76 @@
+project:
+  type: website
+  resources:
+    - "pdf/*.pdf"
+
+website:
+  title: "Home"  
+  sidebar:
+    search: false
+    header: "header.md"
+    style: "floating"
+    collapse-level: 1
+    contents:
+        - section: "Lectures"
+          contents:
+            - text: W1 Interpassive Aggressive
+              file: w1-interpassive.qmd
+            - text: W2 Digital Swarms
+              file: w2-digital-swarms.qmd
+            - text: W3 Selfies
+              file: w3-selfies.qmd
+            - text: W4 Fangirls
+              file: w4-fangirls.qmd
+            - text: W5 Females
+              file: w5-females.qmd
+            - text: W7 Dark Forest
+              file: w7-dark-forest.qmd
+        - section: "Resources"
+          contents:
+            - text: Bibliography
+              file: social-media-bib.qmd
+            - text: Digital Gardens
+              file: digital-gardens.qmd
+            - text: Mastodon
+              file: mastodon.qmd
+            - text: TikTok Trends
+              file: tt-trends.qmd
+  navbar:
+    background: "#235440"
+    right:
+      - icon: github
+        aria-label: github
+        href: https://github.com/mroberts1/fsu-smt-su24
+      - icon: twitter
+        aria-label: twitter
+        href: https://twitter.com/mroberts_fsu
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    toc-title: '   '
+    theme:
+      light: [ember.scss, custom_callouts.scss]
+      dark: [ember.scss, custom_callouts.scss, slate]
+    css: custom.scss
+    self-contained: true
+    grid:
+        # sidebar-width: 200px
+        body-width: 650px
+        # margin-width: 200px
+        # gutter-width: 2em
+    linestretch: 1.3
+    # fontsize: 0.9em
+    smooth-scroll: true
+    # linkcolor: "#235440"
+    link-external-newwindow: true
+  PrettyPDF-pdf: default
+callout-appearance: default
+fig-responsive: true
+image-alt: " "
+execute:
+  freeze: auto
+reference-location: margin
+citation-location: margin
+editor: visual
