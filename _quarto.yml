@@ -10,31 +10,31 @@ website:
     header: "header.md"
     style: "floating"
     collapse-level: 1
-    contents:
-        - section: "Lectures"
-          contents:
-            - text: W1 Interpassive Aggressive
-              file: w1-interpassive.qmd
-            - text: W2 Digital Swarms
-              file: w2-digital-swarms.qmd
-            - text: W3 Selfies
-              file: w3-selfies.qmd
-            - text: W4 Fangirls
-              file: w4-fangirls.qmd
-            - text: W5 Females
-              file: w5-females.qmd
-            - text: W7 Dark Forest
-              file: w7-dark-forest.qmd
-        - section: "Resources"
-          contents:
-            - text: Bibliography
-              file: social-media-bib.qmd
-            - text: Digital Gardens
-              file: digital-gardens.qmd
-            - text: Mastodon
-              file: mastodon.qmd
-            - text: TikTok Trends
-              file: tt-trends.qmd
+    # contents:
+    #     - section: "Agendas"
+    #       contents:
+            # - text: W1 Interpassive Aggressive
+            #   file: w1-interpassive.qmd
+            # - text: W2 Digital Swarms
+            #   file: w2-digital-swarms.qmd
+            # - text: W3 Selfies
+            #   file: w3-selfies.qmd
+            # - text: W4 Fangirls
+            #   file: w4-fangirls.qmd
+            # - text: W5 Females
+            #   file: w5-females.qmd
+            # - text: W7 Dark Forest
+            #   file: w7-dark-forest.qmd
+        # - section: "Resources"
+          # contents:
+          #   - text: Bibliography
+          #     file: social-media-bib.qmd
+          #   - text: Digital Gardens
+          #     file: digital-gardens.qmd
+          #   - text: Mastodon
+          #     file: mastodon.qmd
+          #   - text: TikTok Trends
+          #     file: tt-trends.qmd
   navbar:
     background: "#235440"
     right:

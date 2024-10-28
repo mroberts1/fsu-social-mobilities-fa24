@@ -10,193 +10,194 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-# COMM 7018: Social Media Theory
+# COMM 7007: Social Mobilities
 
 ::: {.content-visible when-format="html"}
-[![](img/polyducks.gif)](https://www.polyducks.co.uk)
+[![](img/dudewithsign.jpeg){width="100%"}](https://www.instagram.com/dudewithsign/?hl=en)
 :::
 
 :::: {.content-visible when-format="pdf"}
 ::: {layout="[[49, -2, 49]]"}
-[![](img/polyducks.png){fig-alt="Shibuya Crossing Walkabout, by UK digital artist Ben Jones, aka Polyducks"}](http://polyducks.co.uk/)
+[![](img/dudewithsign.jpeg){width="100%"}](https://www.instagram.com/dudewithsign/?hl=en)
 
 [Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
 [MS in Applied Communication: Social Media Concentration](https://www.fitchburgstate.edu/academics/programs/social-media-concentration-applied-communication-ms-online)\
 GCE Online-Accelerated\
-7 weeks, Mon 20 May---Sun 7 July 2024\
+7 weeks, Tues 29 October---Tues 17 December 2024\
 Instructor: Dr. Martin Roberts\
 [Syllabus](https://mroberts1.github.io/fsu-smt-su24)\
-[GitHub repository](https://github.com/mroberts1/fsu-smt-su24)
+{{< fa regular envelope >}} [mrober40\@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)\
+{{< fa brands github >}} [GitHub repository](https://github.com/mroberts1/fsu-social-mobilities-fa22)\
+{{< fa brands discord >}} [Discord server](https://discord.gg/rm4BpXaG)
 :::
 ::::
 
-## Introduction
+## Overview
 
-The term **social media** is popularly understood as referring to corporate-owned, advertising-funded communication **platforms** based on **user-generated content**: YouTube, Instagram, Facebook, Twitter, Twitch, Discord, TikTok. It can also be defined more broadly, however, as a set of networked, technologically-mediated **practices** of communication, structured by economic and political forces that both inflect and are inflected by social and cultural identities. These platforms, the social practices that they enable, and the relationship between the two are the objects of **social media theory**. But what does it mean to theorize social media? Why do we need social media theory at all?
+This seminar is an exploration of what it means to live with personal, portable, and handheld media technologies. We will study these technologies across time and space by situating them within their historical contexts and by studying their use in various settings. We'll also employ a variety of theoretical frameworks and interdisciplinary approaches. Simultaneously, we will attempt to analyze and theorize our own handheld media experiences through and against the course readings.
 
-:::::: solutionbox
-:::: solutionbox-header
-::: solutionbox-icon
-:::
+<!-- :::::: solutionbox -->
+<!-- :::: solutionbox-header -->
+<!-- ::: solutionbox-icon -->
+<!-- ::: -->
 
-To theorize something involves a number of processes
-::::
+<!-- To theorize something involves a number of processes -->
+<!-- :::: -->
 
-::: solutionbox-body
--   first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena?
--   how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility?
--   what is its relation to larger areas of society? What are its implications for those areas?
--   how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better?
-:::
-::::::
+<!-- ::: solutionbox-body -->
+<!-- -   first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena? -->
+<!-- -   how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility? -->
+<!-- -   what is its relation to larger areas of society? What are its implications for those areas? -->
+<!-- -   how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better? -->
+<!-- ::: -->
+<!-- :::::: -->
 
-These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question.
+<!-- These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question. -->
 
 ## Objectives
 
 By the end of the course, students will be able to:
 
--   analyze technologies past, present, and imagined
--   describe the ways in which technologies shape our world the ways in which we shape those technologies
--   explain how social media is a result of the intersection between technologies and existing human communication dynamics
--   discuss how theory of technology and social media can improve the vocational outlook of a student
--   play a productive role in and facilitate conversations that tease out the relationships between values and technology.\
--   through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
+- analyze technologies past, present, and imagined
+- describe the ways in which technologies shape our world the ways in which we shape those technologies
+- explain how social media is a result of the intersection between technologies and existing human communication dynamics
+- discuss how theory of technology and social media can improve the vocational outlook of a student
+- play a productive role in and facilitate conversations that tease out the relationships between values and technology.
+- through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
 
 ## Course Texts
 
-All sources are available online or PDFs will be posted on Blackboard.
+Available as audiobooks (Audible) and ebooks (Kindle), as well as print.
 
--   Byung-Chul Han, **In The Swarm: Digital Prospects** (Cambridge, MA: MIT Press, 2017).
+[Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**. New York: Doubleday, 2024.
 
--   Robert Pfaller, **Interpassivity: The Aesthetics of Delegated Enjoyment** (Edinburgh: Edinburgh University Press, 2017).
+[Parmy Olson](https://x.com/parmy), **Supremacy: AI, ChatGPT, and the Race that Will Change the World**. New York: MacMillan, 2024.
 
--   Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
+Christine Lagorio-Chafkin, **We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory**. New York: Hachette Books, 2018.
 
--   Kaitlyn Tiffany, **Everything I Need I Get From You: How Fangirls Created the Internet as We Know It** (Oxford: Blackwell’s, 2022).
+[Allissa V. Richardson](https://allissavrichardson.com), **Bearing Witness While Black: African Americans, Smartphones, and the New Protest \#Journalism**. Oxford: Oxford University Press, 2020.
+
+Stefania Maurizi, **Secret Power: Wikileaks and Its Enemies**. Pluto Press, 2023.
+
+Christopher Wylie, **Mindf\*\*k: Cambridge Analytica and the Plot to Break America**. New York: Random House, 2019.
+
+------------------------------------------------------------------------
+
+### Documentaries
+
+**Citizenfour** (2014)\
+**Risk** (2016)\
+**Super Pumped: The Battle for Uber** (Showtime, 2022)\
+**We Are Legion: The Story of the Hacktivists** (2012)\
+**WeWork: Or the Making and Breaking of a $47 Billion Unicorn** (Hulu, 2021)\
+**Wikileaks: Secrets and Lies** (2011)\
+
+------------------------------------------------------------------------
 
 ## Course Information
 
-**Blackboard**\
-We will be using the Blackboard Learning Management System (LMS) as the primary platform for the course. Please be sure to check in to the site at least once daily M-F to check the Announcements page and the Discussion forum for the week.
+**Platforms**\
+We'll be using Blackboard for submitting assignments ONLY.  For discussion, we will be using Discord.  
 
-:::::: solutionbox
-:::: solutionbox-header
-::: solutionbox-icon
-:::
+On Discord, if you don't already have an account, please set one up using your Fitchburg State University email address as ID.   
 
-Sources
-::::
+If you already have a Discord account there will be problems setting up an account for the course because each account has to be tied to a different phone number, so you will not be able to use your regular phone number for verification. For this reason, you may use your existing account, but if you use a pseudonym please let me know what this is so I know who you are!  
 
-::: solutionbox-body
-Reading assignments will be either from Required texts, linked to online, or available as PDF documents.
+Please be sure to check in to the site at least once daily M-F to check the Announcements page and the Discussion forum for the week. 
 
-PDF documents and the syllabus will be available for download in the [Course Repository](https://github.com/mroberts1/social-media-theory-summer-2022) hosted on GitHub: please bookmark this link.
+------------------------------------------------------------------------
 
-The <pdf> folder on the repo will have copies of all PDF chapters and articles, which may be downloaded either individually (click on the document in question and then the Download button) or collectively in the zip file.
-:::
-::::::
+## Assignments & Evaluation
 
-## Assignments / Evaluation
+**Discord**\
+Regular participation in weekly discussion and other channels (20%)
 
--   **Review**: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%)\
--   **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., 100 words max., due by the *following* Friday (20%)\
--   **Commentary**: 2 short papers, 750-1000 words, due Sunday of Week 2 and Week 4 (20%)\
--   **Research paper/report/other project**: 2,000 words, due Sunday of week 7 (20%)
--   **Digital Garden** (practical project, ongoing - information will be provided) (20%)
+**Commentary papers**\
+2 short analysis papers (500 words, 2 pages double-spaced) based on any of the reading assignments, due on Blackboard by end of Weeks 2 and 4 (Friday) (20%)
 
-**Discussion: Agenda, Review, Reply Posts**\
-For Weeks 1-6, each of the weekly topics will be active across a cycle of two weeks.
+**Book Report**\
+Critical review (1,000 words, 4 pages double-spaced) of any text from the select bibliography. You are expected to read at least one additional chapter from any of the main course books. For texts scheduled in weeks 5-6, you'll need to read ahead. Due on Blackboard by Friday of Week 5 (20%)
 
-By **Wednesday** of each week, I will post an Agenda item in the Discussion forum for the topic of the week, that introduces and contextualizes the reading assignments for the week, identifying key themes, concepts, and/or issues to look out for as you read. Be sure to read the Agenda post before beginning the reading assignments.
+**Research paper/report/creative project**\ 
+2,000 words, due on Blackboard by Friday of Week 7 (20%)
 
-In the first week, complete the reading assignments and make an initial response post called a Review, with question and/or comments on them, by **Sunday** of the week in question.
+**Research Paper/Project**\
+The culminating written assignment for the course (2,000 words) may consist of various formats: a research paper or report, or a creative project (blog, website, podcast)
 
-In the second week, read through the Review posts of the group and post at least one Reply to one of them by Friday of that week.
+A 1-page tentative proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum on Blackboard by the end of Week 3, and you will receive feedback during Week 4.
+
+***
+
+By **Wednesday** of each week, I will post an Agenda item in the Discussion forum for the topic of the week, that introduces and contextualizes the reading assignments for the week, identifying key themes, concepts, and/or issues to look out for as you read.
 
 **Commentary Papers**\
-These short papers (750-1,000 words) are due at the end of Week 2 and Week 4 (Sunday). They should consist of close analytical readings of any of the reading assignments for the period Weeks 1-2 or 3-4. You are encouraged to focus in detail on particular sections, arguments, and/or concepts from the readings and develop them.
+These short papers (750-1,000 words) are due at the end of Week 2 and Week 4 (Sunday). They should consist of analytical close readings of any of the reading assignments for the period Weeks 1-2 or 3-4. You are encouraged to focus in detail on particular sections, arguments, and/or concepts from the readings and develop them.
 
 **Research Paper/Project**\
 The culminating written assignment for the course (2,000 words) may consist of various formats: a research paper or report, or a creative project of your choice.
 
 A 1-page preliminary proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum for the purpose by the end of Week 3, and you will receive feedback during Week 4.
 
+--------------------------------------------------------------
+
 ## Schedule
 
-**Week 1** M 05/20
+Week 1: Tuesday 29 October 2024
 
-**Interpassive Aggressive**
+**Algorithm**
 
-Rob Horning, **Internal Exile** (blog)
+[Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**
 
--   “[Empires of Modern Passivity](https://robhorning.substack.com/p/empires-of-modern-passivity?r=1dbr0j&utm_medium=ios&triedRedirect=true)” (17 May 2024) \[Please read the linked references also\]
--   “[A Delightful Intuitive Companion](https://robhorning.substack.com/p/a-delightful-intuitive-companion?utm_source=substack&publication_id=1073994&post_id=141075725&utm_medium=email&utm_content=share&utm_campaign=email-share&isFreemail=true&r=1dbr0j&triedRedirect=true)” (26 January 2024)
--   Robert Pfaller, "Introduction" \[[pdf](pdf/interpassivity-intro.pdf)\] (*Interpassivity: The Aesthetics of Delegated Enjoyment*)
+--------------------------------------------------------------
 
-------------------------------------------------------------------------
+Week 2: Tuesday 5 November 2024
 
-**Week 2** M 05/27
+**Chatbot**
 
-**Digital Swarms**
-
--   Byung-Chul Han, "No Respect"; "Outrage Society"; "In The Swarm" (**In The Swarm: Digital Prospects**, chs. 1-3) \[[pdf](pdf/in-the-swarm.pdf)\]
--   Cathy O'Neil, "Humiliation and Defiance" (**The Shame Machine: Who Profits in the New Age of Humiliation**, ch. 6) \[[pdf](pdf/shame-machine-karens.pdf)\]
+[Parmy Olson](https://x.com/parmy), **Supremacy: How the Struggle Between Google and Facebook Shapes Our Future**
 
 ------------------------------------------------------------------------
 
-**Week 3** M 06/03
+Week 3: Tuesday 12 November 2024
 
-**Smile for the Camera: Selfies**
+**Nerd**
 
--   Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (**Medium**, 17 March 2023)
--   Michael Standaert, "[Smile for the Camera: The Dark Side of China's Emotion-Recognition Tech](https://www.theguardian.com/global-development/2021/mar/03/china-positive-energy-emotion-surveillance-recognition-tech)" (**The Guardian**, 3 March 2021)
-
-------------------------------------------------------------------------
-
-**Week 4** M 06/10
-
-**Fangirls**
-
--   Nancy Baym, “[Introduction: The Intimate Work of Connection](pdf/playing-to-the-crowd-intro.pdf)” (**Playing to the Crowd**, Introduction)
--   Kaitlyn Tiffany, [**Everything I Need I Get From You**](pdf/kaitlyn-tiffany.pdf) (it's a big excerpt - read at least the Introduction and the first couple of chapters)
+Christine Lagorio-Chafkin, **We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory**
 
 ------------------------------------------------------------------------
 
-**Week 5** M 06/17
+Week 4: Tuesday 19 November 2024
 
-**Females**
+**Witness**
 
--   [Alex Quicho](https://amfq.xyz/), “[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)” (**WIRED**, 11 September 2023)
-
--   Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)” (**heyalma**, 10 August 2017)
+Allissa V. Richardson, **Bearing Witness While Black**
 
 ------------------------------------------------------------------------
 
-**Week 6** M 06/24
+Week 5: Tuesday 26 November 2024
 
-**Toxic Cleanup**
+**Wikileaks**
 
-Ryan Milner and Whitney Phillips, **You Are Here**
-
--   ch. 5: "[Cultivating Ecological Literacy](pdf/you-are-here-ch5.pdf)" (skip opening section in italics)
--   ch. 6: "[Choose Your Own Ethics Adventure](pdf/you-are-here-ch6.pdf)"
+Stefania Maurizi, **Secret Power: Wikileaks and Its Enemies**
 
 ------------------------------------------------------------------------
 
-**Week 7** M 07/01
+Week 6: Tuesday 3 December 2024
 
-**The Dark Forest**
+**Data**
 
--   Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
--   Yancey Strickler, “[The Dark Forest Theory of the Internet](pdf/yancey-strickler-medium-pt1.pdf)”; “[Beyond The Dark Forest Theory of the Internet](pdf/yancey-strickler-medium-pt2.pdf)” (2019)
+Christopher Wylie, **Mindf\*\*k: Cambridge Analytica and the Plot to Break America**
 
 ------------------------------------------------------------------------
 
-## Resources
+Week 7: Tuesday 10 December 2024
 
-[Abbie Richards](https://www.abbiesr.com/about) (TikTok researcher, Media Matters)
+Research projects
+
+Tuesday 17 December 2024: Last day of classes
+
+------------------------------------------------------------------------
 
 ## Bibliography
 
@@ -206,21 +207,47 @@ Amy Bruckman, **Should You Believe Wikipedia? Online Communities and the Constru
 
 Finn Brunton and Helen Nissenbaum, **Obfuscation: A User's Guide for Privacy and Protest** (Cambridge: MIT Press, 2016).
 
+Kyle Chayka, **Filterworld: How Algorithms Flattened Culture** (New York: Doubleday, 2024).
+
 Gabriella Coleman, **Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous** (London and New York: Verso, 2014).
 
 Claire Dederer, **Monsters: A Fan's Dilemma** (New York: Alfred A. Knopf, 2023).
 
+Glenn Greenwald, **No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State** (New York: Metropolitan Books, 2014).
+
+Adrian Hon, **You've Been Played: How Corporations, Governments, and Schools Use Games to Control Us All** (New York: Basic Books, 2022).
+
 Sarah J. Jackson, Moya Bailey, et al., **#Hashtag Activism: Networks of Race and Gender Justice** (Cambridge: MIT Press, 2020).
+
+Christine Lagorio-Chafkin, **We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory** (New York: Hachette Books, 2018).
+
+Taylor Lorenz, **Extremely Online: How the Internet Changed the Way We Live, Love, Work, and Play** (New York: Simon & Schuster, 2022}.
 
 Gary Marcus & Ernest Davis, **Rebooting AI: Building Artificial Intelligence We Can Trust** (New York: Pantheon Books, 2019).
 
-Angela Nagle, **Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right** (Alresford, Hampshire, UK: Zero Books, 2017). \* Cathy O'Neil, with Stephen Baker, **The Shame Machine: Who Profits in the New Age of Humiliation** (New York: Crown/Random House, 2022).
+Stefania Maurizi, **Secret Power: Wikileaks and Its Enemies**. Pluto Press, 2023.
+
+[Gretchen McCulloch](https://gretchenmcculloch.com/), [**Because Internet: Understanding the New Rules of Language**](https://gretchenmcculloch.com/book/) (Riverhead Books, 2019)
+
+Angela Nagle, **Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right** (Alresford, Hampshire, UK: Zero Books, 2017).
+
+[Parmy Olson](https://x.com/parmy), **Supremacy: AI, ChatGPT, and the Race that Will Change the World**. New York: MacMillan, 2024.
+
+Cathy O'Neil, with Stephen Baker, **The Shame Machine: Who Profits in the New Age of Humiliation** (New York: Crown/Random House, 2022).
 
 Whitney Phillips, **This Is Why We Can't Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture** (Cambridge: MIT Press, 2015).
 
 Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
 
 Allissa V, Richardson, **Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism** (Oxford: Oxford University Press, 2020).
+
+Zeynep Tufekci, **Twitter and Tear Gas: The Power and Fragility of Networked Protes** (New Haven: Yale University Press, 2017}.
+
+Michele White, **Touch Screen Theory: Digital Devices and Feelings** (Cambridge, MA: MIT Press, 2022).
+
+Christopher Wylie, **Mindf\*\*k: Cambridge Analytica and the Plot to Break America** (New York: Random House, 2019).
+
+***
 
 ## Late Policy
 
