@@ -13,12 +13,12 @@ library(palmerpenguins)
 # COMM 7007: Social Mobilities
 
 ::: {.content-visible when-format="html"}
-[![](img/minipods.gif){width="70%"}](https://opensea.io/assets/ethereum/0xdfde78d2baec499fe18f2be74b6c287eed9511d7/14000027)
+[![](img/minipods.gif){width="79%"}](https://opensea.io/assets/ethereum/0xdfde78d2baec499fe18f2be74b6c287eed9511d7/14000027)
 :::
 
 :::: {.content-visible when-format="pdf"}
 ::: {layout="[[49, -2, 49]]"}
-[![](img/minipods.jpeg){width="70%"}](https://opensea.io/assets/ethereum/0xdfde78d2baec499fe18f2be74b6c287eed9511d7/14000027)
+[![](img/minipods.jpeg){width="79%"}](https://opensea.io/assets/ethereum/0xdfde78d2baec499fe18f2be74b6c287eed9511d7/14000027)
 
 [Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
@@ -72,6 +72,8 @@ Available as audiobooks (Audible) and ebooks (Kindle), as well as print.
 
 [Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**. New York: Doubleday, 2024.
 
+[Kate Eichhorn](https://emerson.edu/faculty-staff-directory/kate-eichhorn), [**Content**](https://mitpress.mit.edu/9780262543286/content/). Essential Knowledge Series. Cambridge, MA: MIT Press, 2022.
+
 [Parmy Olson](https://x.com/parmy), **Supremacy: AI, ChatGPT, and the Race that Will Change the World**. New York: MacMillan, 2024.
 
 Christine Lagorio-Chafkin, **We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory**. New York: Hachette Books, 2018.
@@ -79,8 +81,6 @@ Christine Lagorio-Chafkin, **We Are the Nerds: The Birth and Tumultuous Life of 
 [Allissa V. Richardson](https://allissavrichardson.com), **Bearing Witness While Black: African Americans, Smartphones, and the New Protest \#Journalism**. Oxford: Oxford University Press, 2020.
 
 Stefania Maurizi, **Secret Power: Wikileaks and Its Enemies**. Pluto Press, 2023.
-
-Christopher Wylie, **Mindf\*\*k: Cambridge Analytica and the Plot to Break America**. New York: Random House, 2019.
 
 ------------------------------------------------------------------------
 
@@ -145,13 +145,23 @@ A 1-page preliminary proposal with ideas for your project, with a short bibliogr
 
 Week 1: Tuesday 29 October 2024
 
+**Content**
+
+[Kate Eichhorn](https://emerson.edu/faculty-staff-directory/kate-eichhorn), **Content**
+
+Patrick H. Willems, "[Everything is Content Now](https://youtu.be/hAtbFwzZp6Y)" (YouTube)
+
+--------------------------------------------------------------
+
+Week 2: Tuesday 5 November 2024  
+
 **Algorithm**
 
 [Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**
 
---------------------------------------------------------------
+------------------------------------------------------------------------
 
-Week 2: Tuesday 5 November 2024
+Week 3: Tuesday 12 November 2024
 
 **Chatbot**
 
@@ -159,7 +169,7 @@ Week 2: Tuesday 5 November 2024
 
 ------------------------------------------------------------------------
 
-Week 3: Tuesday 12 November 2024
+Week 4: Tuesday 19 November 2024
 
 **Nerd**
 
@@ -167,7 +177,7 @@ Christine Lagorio-Chafkin, **We Are the Nerds: The Birth and Tumultuous Life of 
 
 ------------------------------------------------------------------------
 
-Week 4: Tuesday 19 November 2024
+Week 5: Tuesday 26 November 2024
 
 **Witness**
 
@@ -175,19 +185,11 @@ Allissa V. Richardson, **Bearing Witness While Black**
 
 ------------------------------------------------------------------------
 
-Week 5: Tuesday 26 November 2024
-
-**Wikileaks**
-
-Stefania Maurizi, **Secret Power: Wikileaks and Its Enemies**
-
-------------------------------------------------------------------------
-
 Week 6: Tuesday 3 December 2024
 
-**Data**
+**Whistleblower**
 
-Christopher Wylie, **Mindf\*\*k: Cambridge Analytica and the Plot to Break America**
+Stefania Maurizi, **Secret Power: Wikileaks and Its Enemies**
 
 ------------------------------------------------------------------------
 
@@ -212,6 +214,8 @@ Kyle Chayka, **Filterworld: How Algorithms Flattened Culture** (New York: Double
 Gabriella Coleman, **Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous** (London and New York: Verso, 2014).
 
 Claire Dederer, **Monsters: A Fan's Dilemma** (New York: Alfred A. Knopf, 2023).
+
+[Kate Eichhorn](https://emerson.edu/faculty-staff-directory/kate-eichhorn), [**Content**](https://mitpress.mit.edu/9780262543286/content/). Essential Knowledge Series (Cambridge, MA: MIT Press, 2022).
 
 Glenn Greenwald, **No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State** (New York: Metropolitan Books, 2014).
 
