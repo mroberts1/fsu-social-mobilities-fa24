@@ -147,9 +147,12 @@ Week 1: Tuesday 29 October 2024
 
 **Content**
 
-[Kate Eichhorn](https://emerson.edu/faculty-staff-directory/kate-eichhorn), **Content**
+[Kate Eichhorn](https://emerson.edu/faculty-staff-directory/kate-eichhorn), **Content**:
 
-Patrick H. Willems, "[Everything is Content Now](https://youtu.be/hAtbFwzZp6Y)" (YouTube)
+- "[A Brief History of Content in a Digital Era](pdf/eichhorn-content-ch1.pdf)"
+- "[User-Generated Content]((pdf/eichhorn-content-ch2.pdf)" (recommended)
+
+See also: Patrick H. Willems, "[Everything is Content Now](https://youtu.be/hAtbFwzZp6Y)" (YouTube)
 
 --------------------------------------------------------------
 
