@@ -29,7 +29,7 @@ Instructor: Martin Roberts\
 [Syllabus](https://mroberts1.github.io/fsu-smt-su24)\
 [{{< fa regular envelope >}}](mailto:mrober40@fitchburgstate.edu) | 
  [{{< fa brands github >}}](https://github.com/mroberts1/fsu-social-mobilities-fa24) | 
-[{{< fa brands discord >}}](https://discord.gg/rm4BpXaG)
+[{{< fa brands discord >}}](https://discord.gg/GUSz99EP)
 :::
 ::::
 
@@ -108,7 +108,7 @@ Stefania Maurizi, **Secret Power: Wikileaks and Its Enemies**. Pluto Press, 2023
 ## Course Information
 
 **Platforms**\
-We'll be using Blackboard for submitting assignments ONLY. For discussion, we will be using Discord.
+We'll be using Blackboard for submitting assignments ONLY. For discussion, we will be using [Discord](https://discord.gg/GUSz99EP).
 
 On Discord, if you don't already have an account, please set one up using your Fitchburg State University email address as ID.
 
