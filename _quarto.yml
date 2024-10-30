@@ -56,12 +56,12 @@ format:
     css: custom.scss
     self-contained: true
     grid:
-        # sidebar-width: 200px
-        body-width: 600px
-        # margin-width: 200px
-        # gutter-width: 2em
-    linestretch: 1.3
-    # fontsize: 0.9em
+      sidebar-width: 200px
+      body-width: 550px
+      margin-width: 300px
+      gutter-width: 2em   
+    linestretch: 1.2
+    fontsize: 1em
     smooth-scroll: true
     # linkcolor: "#235440"
     link-external-newwindow: true

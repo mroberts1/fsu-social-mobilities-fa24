@@ -25,14 +25,14 @@ $font-family-monospace: "Overpass Mono", "Roboto Mono", "IBM Plex Mono", monospa
 
 $font-family-serif: "Source Serif Pro", "Literata", "Piazzolla", serif;
 
-$font-family-base: "Helvetica Neue", sans-serif;
+$font-family-base: "Europa", "Helvetica Neue", sans-serif;
 
 /*-- scss:rules --*/
 
 // litera is serif by default: revert to san-serif
 p, li, {
   font-family: $font-family-base;
-  font-size: 14px;
+  //font-size: 14px;
 }
 
 h1 {
