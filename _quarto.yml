@@ -9,7 +9,7 @@ website:
     search: false
     header: "header.md"
     style: "floating"
-    collapse-level: 1
+    collapse-level: 2
     contents:
          - section: "Agendas"
            contents:
