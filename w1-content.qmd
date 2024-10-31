@@ -1,5 +1,6 @@
 ---
 title: '  '
+toc: false
 ---
 
 ```{r}
@@ -17,13 +18,13 @@ library(palmerpenguins)
 -   "[A Brief History of Content in a Digital Era](pdf/eichhorn-content-ch1.pdf)"
 -   "[User-Generated Content](pdf/eichhorn-content-ch2.pdf)" (recommended)
 
+:::{.column-margin}
+
 [![](img/egg.jpeg)](https://www.instagram.com/world_record_egg/)
 
-***
+:::
 
 See also: Patrick H. Willems, "[Everything is Content Now](https://youtu.be/hAtbFwzZp6Y)" (YouTube)
-
-{{< video https://youtu.be/hAtbFwzZp6Y >}}
 
 ***
 
@@ -31,9 +32,9 @@ See also: Patrick H. Willems, "[Everything is Content Now](https://youtu.be/hAtb
 
 [![](img/seinfeld-netflix.jpg)](https://www.netflix.com/title/70153373)
 
-Who doesn't love **Seinfeld**, the classic sitcom show "about nothing" that was the benchmark for TV comedy in the 1990s? Now that all 9 seasons are streaming on [Netflix](https://www.netflix.com/title/70153373), Gen Zers who are too young to have seen the show when it was first aired can now watch it's countless seasons. As anyone familiar with the show knows, the premise of the show itself was that it was a show "about nothing" - early in its history there was even a very "meta" series of episodes in which Jerry and George pitch their idea for a comedy "about nothing" to executives at NBC--the very network that was actually airing those episodes!
+Who doesn't love **Seinfeld**, the classic sitcom show **about nothing** that was the benchmark for TV comedy in the 1990s? Now that all 9 seasons are streaming on [Netflix](https://www.netflix.com/title/70153373), Gen Zers who are too young to have seen the show when it was first aired can enjoy it in all its glory. As anyone familiar with the show knows, the premise of the show itself was that it was a show "about nothing"---early in its history there was even a very "meta" series of episodes in which Jerry and George pitch their idea for a comedy "about nothing" to executives at NBC--the very network that was actually airing those episodes!
 
-Which is why it's weirdly appropriate that the show is the reference-point for one of the stranger forms of "content" to have swum across my screen in recent years: a procedurally-generated, never-ending animated version of the show that began streaming on the Twitch gaming platform last year, titled---appropriately enough---[**Nothing, Forever**](https://www.twitch.tv/watchmeforever).
+Which is why it's strangely appropriate that the show is the reference-point for one of the stranger forms of "content" to have swum across my screen in recent years: a procedurally-generated, never-ending animated version of the show that began streaming on the Twitch gaming platform last year, titled---appropriately enough---[**Nothing, Forever**](https://www.twitch.tv/watchmeforever).
 
 I mention this example for a number of reasons. First, because it's a perfect example of the content category that Kate Eichhorn defines as **entertainment content** in the first chapter of her recent book on the subject. Back in the 1990s, **Seinfeld** was airing at the exact same time that Bill Gates first published his famous essay, "Content is King" (referenced in Patrick Willem's YouTube video on the same subject). Yet as prescient as that essay may now seem in retrospect, the term "content" was still far from taking on the specific meaning that it began to about a decade later, while nobody at the time would have dreamed of describing **Seinfeld** as **content**: it was simply **television**. The distance between then and now is a measure of how far digital media and the emergence of the World Wide Web (as it was still called when **Seinfeld** was airing on NBC) have tranformed the nature of entertainment over the intervening quarter century. For in contrast to its 1990s TV source, **Nothing, Forever** is a quintessential example of what we mean today by the term **content**: a media text whose cultural value resides primarily---if not exclusively---in its capacity to **circulate** widely across the social mediascape. In that respect, **Nothing, Forever** can be seen as a counterpart to the Instagram egg account that provides the starting-point for Kate Eichhorn's discussion of content. And like its counterpart, the Twitchstream show quickly began to propagate beyond the specific platform on which it originated. In addition to the torrent of online chatter it generated on tech news sites and social media platforms like Reddit, it quickly spawned the by now all-too-familiar YouTube spin-offs: a best-of compilation, a [playlist of archived episodes](https://www.youtube.com/playlist?list=PLMWNMOWqRRvAiIIjXuxsxEpOXw3GV2b6G), and numerous dystopian predictions by social media commentators of how the show was a harbinger of the imminent tidal wave of generative-AI content about to break over our heads.
 
