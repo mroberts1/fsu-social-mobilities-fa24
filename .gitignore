@@ -1,6 +1,7 @@
 /.quarto/
 /_site/
 /pdf/
+/img/
 .Rproj.user
 .Rhistory
 .RData
