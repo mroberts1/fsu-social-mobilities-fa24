@@ -15,26 +15,12 @@ website:
            contents:
              - text: W1 Content
                file: w1-content.qmd
-            # - text: W2 Digital Swarms
-            #   file: w2-digital-swarms.qmd
-            # - text: W3 Selfies
-            #   file: w3-selfies.qmd
-            # - text: W4 Fangirls
-            #   file: w4-fangirls.qmd
-            # - text: W5 Females
-            #   file: w5-females.qmd
-            # - text: W7 Dark Forest
-            #   file: w7-dark-forest.qmd
+            # - text: W2 Algorithm
+            #   file: w2-algorithm.qmd
         # - section: "Resources"
           # contents:
           #   - text: Bibliography
           #     file: social-media-bib.qmd
-          #   - text: Digital Gardens
-          #     file: digital-gardens.qmd
-          #   - text: Mastodon
-          #     file: mastodon.qmd
-          #   - text: TikTok Trends
-          #     file: tt-trends.qmd
   navbar:
     background: "#235440"
     right:
@@ -61,7 +47,7 @@ format:
       margin-width: 300px
       gutter-width: 2em   
     linestretch: 1.2
-    fontsize: 1.2em
+    fontsize: 1em
     smooth-scroll: true
     # linkcolor: "#235440"
     link-external-newwindow: true

@@ -1,0 +1,29 @@
+---
+title: '  '
+toc: false
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+<div>
+
+<video autoplay loop muted playsinline controls="false" width="100%">
+
+<source src="video/algorithm.mp4" type="video/mp4">
+
+</video>
+
+</div>
+<small>Kyle Chayka, "[How The Internet Turned Us Into Content Machines](https://www.newyorker.com/culture/infinite-scroll/how-the-internet-turned-us-into-content-machines)" (*New Yorker*, 4 June 2022)</small>
+
+## W2: Algorithm
+
+[<br>[Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**<br><br>"[Introduction](pdf/filterworld-intro.pdf)"
+<br>"[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)" (ch. 1)
+<br><br>See also: "[The Banality of Online Recommendation Culture](https://www.newyorker.com/culture/infinite-scroll/the-banality-of-online-recommendation-culture)" (*New Yorker*, 30 October 2024)]{.aside}

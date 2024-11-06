@@ -1,0 +1,17 @@
+{
+  "hash": "6e46891de0677abcdd844f2813b5fe02",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: '  '\ntoc: false\n---\n\n\n\n\n\n\n<div>\n\n<video autoplay loop muted playsinline controls=\"false\" width=\"100%\">\n\n<source src=\"video/algorithm.mp4\" type=\"video/mp4\">\n\n</video>\n\n</div>\n\n## W2: Algorithm\n\n[<br>[Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**<br><br>\"[Introduction](pdf/filterworld-intro.pdf)\"\n<br>\"[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)\" (ch. 1)\n<br><br>See also: \"[The Banality of Online Recommendation Culture](https://www.newyorker.com/culture/infinite-scroll/the-banality-of-online-recommendation-culture)\" (*New Yorker*, 30 October 2024)]{.aside}\n",
+    "supporting": [
+      "w2-algorithm_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

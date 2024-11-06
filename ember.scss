@@ -25,7 +25,7 @@ $font-family-monospace: "Overpass Mono", "Roboto Mono", "IBM Plex Mono", monospa
 
 $font-family-serif: "Source Serif Pro", "Literata", "Piazzolla", serif;
 
-$font-family-base: "Europa", "Helvetica Neue", sans-serif;
+$font-family-base: "Helvetica Neue", sans-serif;
 
 /*-- scss:rules --*/
 
@@ -53,23 +53,23 @@ h2, h3, h4, h5, h6 {
 a:link {
   text-decoration: underline;
   color: #235440;
-  text-decoration-color: #235440;
+  text-decoration-color: #000;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
 }
 a:visited {
     text-decoration: none;
     color: #429A77;
-    text-decoration-color: #235440;
+    text-decoration-color: #000;
     text-decoration-thickness: 1px;
     text-underline-offset: 3px;
 }
 a:hover {
   color: #235440;
-  text-decoration: none;
-  text-decoration-color: #235440;
-  background-color: #429A77;
-  text-decoration-thickness: 1px;
+  text-decoration: underline;
+  text-decoration-color: #429A77;
+  //background-color: #429A77;
+  text-decoration-thickness: 5px;
   text-underline-offset: 3px;
 }
 a:active {
