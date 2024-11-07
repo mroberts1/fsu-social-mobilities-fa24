@@ -15,8 +15,8 @@ website:
            contents:
              - text: W1 Content
                file: w1-content.qmd
-            # - text: W2 Algorithm
-            #   file: w2-algorithm.qmd
+             - text: W2 Algorithm
+               file: w2-algorithm.qmd
         # - section: "Resources"
           # contents:
           #   - text: Bibliography
