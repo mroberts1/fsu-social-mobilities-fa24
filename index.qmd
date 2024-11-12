@@ -13,12 +13,12 @@ library(palmerpenguins)
 # COMM 7007: Social Mobilities
 
 ::: {.content-visible when-format="html"}
-[![](img/minipods.gif){width="85%"}](https://opensea.io/assets/ethereum/0xdfde78d2baec499fe18f2be74b6c287eed9511d7/14000027)
+[![](img/dudewithsign.jpeg){width="85%"}](https://opensea.io/assets/ethereum/0xdfde78d2baec499fe18f2be74b6c287eed9511d7/14000027)
 :::
 
 :::: {.content-visible when-format="pdf"}
 ::: {layout="[[49, -2, 49]]"}
-[![](img/minipods.jpeg){width="85%"}](https://opensea.io/assets/ethereum/0xdfde78d2baec499fe18f2be74b6c287eed9511d7/14000027)
+[![](img/dudewithsign.jpeg){width="85%"}](https://opensea.io/assets/ethereum/0xdfde78d2baec499fe18f2be74b6c287eed9511d7/14000027)
 
 [Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
