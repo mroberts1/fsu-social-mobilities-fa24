@@ -185,6 +185,10 @@ Week 3: Tuesday 12 November 2024
 
 [Parmy Olson](https://x.com/parmy), **Supremacy: How the Struggle Between Google and Facebook Shapes Our Future**
 
+- "[Prologue](pdf/supremacy-prologue.pdf)"
+- "[Hello, ChatGPT](pdf/supremacy-ch13.pdf)" (ch. 13)
+- "[A Vague Sense of Doom](pdf/supremacy-ch14.pdf)" (ch. 14)
+
 ------------------------------------------------------------------------
 
 Week 4: Tuesday 19 November 2024
