@@ -17,6 +17,8 @@ website:
                file: w1-content.qmd
              - text: W2 Algorithm
                file: w2-algorithm.qmd
+             - text: W3 Chatbots
+               file: w3-chatbots.qmd
         # - section: "Resources"
           # contents:
           #   - text: Bibliography
@@ -46,7 +48,7 @@ format:
       body-width: 550px
       margin-width: 300px
       gutter-width: 2em   
-    linestretch: 1.2
+    linestretch: 1.5
     fontsize: 1em
     smooth-scroll: true
     # linkcolor: "#235440"
