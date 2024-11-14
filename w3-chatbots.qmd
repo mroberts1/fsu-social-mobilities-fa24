@@ -41,6 +41,8 @@ Looking forward to this week's discussion on Discord!
 
 **Sources** (referenced in chs. 12-13 of Parmy Olson's book **Supremacy**)
 
+Jennifer Nicholson, "[The Gender Bias Inside GPT-3](https://medium.com/future-sessions/the-gender-bias-inside-gpt-3-748404a3a96c)" (**Medium**, 8  March 2022).
+
 Parmy Olson, "[My Girlfriend is a Chatbot](https://www.wsj.com/articles/my-girlfriend-is-a-chatbot-11586523208)" (**Wall Street Journal**, 10 April 2020).
 
 Tom Simonite, "[What Really Happened When Google Ousted Timnit Gebru](https://www.wired.com/story/google-timnit-gebru-ai-what-really-happened/)" (**WIRED**, 8 June 2021).
