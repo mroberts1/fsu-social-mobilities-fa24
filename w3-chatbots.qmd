@@ -11,10 +11,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-## W3: Prediction Machines
-<br><br>Chatbots and Generative AI
-
-***
+## W3: Prediction Machines: Chatbots & Generative AI
 
 > *Imagine if a pharmaceutical company released a new drug with no clinical trials and said it was testing the medication on the wider public. Or a food company released an experimental preservative with little scrutiny. That was how large tech firms were about to start deploying large language models to the public, because in their race to profit from such powerful tools, there were zero regulatory standards to follow. It was up to the safety and ethics researchers to study all the risks from inside these firms, but they were hardly a force to be reckoned with. At Google, their leaders had been fired. At DeepMind, they represented a tiny proportion of the research team. A signal was emerging more clearly each day. Get on board with the mission to build something bigger, or leave.* [Parmy Olson, **Supremacy: How the Struggle Between Google and Facebook Shapes Our Future**, ch. 12.]{.aside}
 
