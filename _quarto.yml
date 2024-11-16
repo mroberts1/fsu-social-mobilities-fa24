@@ -19,10 +19,10 @@ website:
                file: w2-algorithm.qmd
              - text: W3 Chatbots
                file: w3-chatbots.qmd
-        # - section: "Resources"
+         #- section: "Resources"
           # contents:
-          #   - text: Bibliography
-          #     file: social-media-bib.qmd
+           #  - text: ChatGPT
+            #   href: https://openai.com
   navbar:
     background: "#235440"
     right:
@@ -49,9 +49,26 @@ format:
       margin-width: 300px
       gutter-width: 2em   
     linestretch: 1.5
-    fontsize: 1em
+    fontsize: 1.1em
     smooth-scroll: true
-    # linkcolor: "#235440"
+    # linkcolor: "#235440"/
+    other-links:
+     - text: "Google Deepmind"
+       href: https://deepmind.com
+     - text: ChatGPT
+       href: https://openai.com
+     - text: Claude
+       href: https://claude.ai
+     - text: Perplexity
+       href: https://perplexity.ai
+     - text: Gemini
+       href: https://gemini.google.com
+     - text: Midjourney
+       href: https://midjourney.com
+     - text: Runway
+       href: https://runwayml.com
+     - text: Suno
+       href: https://suno.com
     link-external-newwindow: true
   PrettyPDF-pdf: default
 callout-appearance: default
