@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/custom_callouts.html</loc>
-    <lastmod>2024-10-26T04:21:01.271Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/w4-nerds.html</loc>
-    <lastmod>2024-11-21T03:21:30.808Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/index.html</loc>
-    <lastmod>2024-11-19T02:14:48.590Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/w1-content.html</loc>
-    <lastmod>2024-10-31T01:29:06.054Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/w2-algorithm.html</loc>
-    <lastmod>2024-11-07T02:26:41.690Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/w3-chatbots.html</loc>
+    <lastmod>2024-11-14T04:45:03.308Z</lastmod>
   </url>
   <url>
     <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/header.html</loc>
     <lastmod>2024-11-07T02:46:05.646Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/w3-chatbots.html</loc>
-    <lastmod>2024-11-14T04:45:03.308Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/w2-algorithm.html</loc>
+    <lastmod>2024-11-07T02:26:41.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/w1-content.html</loc>
+    <lastmod>2024-10-31T01:29:06.054Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/index.html</loc>
+    <lastmod>2024-11-21T04:22:51.274Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mroberts1.github.io/fsu-social-mobilities-fa24/w4-nerds.html</loc>
+    <lastmod>2024-11-21T04:01:42.431Z</lastmod>
   </url>
 </urlset>
