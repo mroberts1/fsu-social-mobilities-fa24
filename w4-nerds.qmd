@@ -22,13 +22,12 @@ library(palmerpenguins)
 ## W4: Brotopia: Y Combinator, Reddit, and the Rise of Nerd Culture
 <small>
 
->Make something people want.
+>*Make something people want*.
 >
 >---Paul Graham
 
->And you may ask yourself  
->Well, how did I get here?
->
+>*And you may ask yourself  
+>Well, how did I get here?*<br><br>
 >---Talking Heads, "Once in a Lifetime"
 </small>
 
