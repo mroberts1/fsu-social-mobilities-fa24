@@ -20,6 +20,11 @@ library(palmerpenguins)
 :::
 
 ## W4: Brotopia: Y Combinator, Reddit, and the Rise of Nerd Culture
+
+:::{.column-margin}
+[Christine Lagorio-Chafkin](https://x.com/lagorio), **We Are the Nerds**, [part I](pdf/lagorio-wearethenerds-part1.pdf)
+:::
+
 <small>
 
 >*Make something people want*.
