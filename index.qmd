@@ -27,10 +27,7 @@ GCE Online-Accelerated\
 7 weeks, Tues 29 October---Tues 17 December 2024\
 Instructor: Martin Roberts\
 [Syllabus](https://mroberts1.github.io/fsu-smt-su24)\
-[{{< fa regular envelope >}}](mailto:mrober40@fitchburgstate.edu) | 
-[{{< fa brands github >}}](https://github.com/mroberts1/fsu-social-mobilities-fa24) | 
-[{{< fa brands discord >}}](https://discord.gg/GUSz99EP) | 
-[{{< fa brands youtube >}}](https://www.youtube.com/playlist?list=PLx7AcHafElRiGpYPLRM29YzNMMEXyDqmh)
+[{{< fa regular envelope >}}](mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands github >}}](https://github.com/mroberts1/fsu-social-mobilities-fa24) \| [{{< fa brands discord >}}](https://discord.gg/GUSz99EP) \| [{{< fa brands youtube >}}](https://www.youtube.com/playlist?list=PLx7AcHafElRiGpYPLRM29YzNMMEXyDqmh)
 :::
 ::::
 
@@ -174,8 +171,8 @@ Week 2: Tuesday 5 November 2024
 
 [Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**
 
-- "[Introduction](pdf/filterworld-intro.pdf)"
-- "[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)" (ch. 1)
+-   "[Introduction](pdf/filterworld-intro.pdf)"
+-   "[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)" (ch. 1)
 
 ------------------------------------------------------------------------
 
@@ -185,9 +182,9 @@ Week 3: Tuesday 12 November 2024
 
 [Parmy Olson](https://x.com/parmy), **Supremacy: How the Struggle Between Google and Facebook Shapes Our Future**
 
-- "[Prologue](pdf/supremacy-prologue.pdf)"
-- "[Mythbusters](pdf/supremacy-ch12.pdf)" (ch. 12)
-- "[Hello, ChatGPT](pdf/supremacy-ch13.pdf)" (ch. 13)
+-   "[Prologue](pdf/supremacy-prologue.pdf)"
+-   "[Mythbusters](pdf/supremacy-ch12.pdf)" (ch. 12)
+-   "[Hello, ChatGPT](pdf/supremacy-ch13.pdf)" (ch. 13)
 
 ------------------------------------------------------------------------
 
@@ -197,7 +194,7 @@ Week 4: Tuesday 19 November 2024
 
 [Christine Lagorio-Chafkin](https://x.com/lagorio), **We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory**
 
-- [*We Are the Nerds*, part I](pdf/lagorio-wearethenerds-part1.pdf)
+-   [*We Are the Nerds*, part I](pdf/lagorio-wearethenerds-part1.pdf)
 
 ------------------------------------------------------------------------
 
