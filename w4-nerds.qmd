@@ -1,0 +1,51 @@
+---
+title: '  '
+toc: false
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+## W4: Minimum Viable Product: Reddit and the Front Page of the Internet
+<small>
+
+>"Make something people want."
+>
+>---Paul Graham
+
+>And you may ask yourself  
+>"Well, how did I get here?"
+>---Talking Heads, "Once in a Lifetime"
+</small>
+
+Continuing our exploration of the origins of today's social mediascape, this week we look at the rise of [Reddit](https://www.reddit.com/), in Christine Lagorio-Chafkin's fascinating history of the platform, *We Are The Nerds*. Part of the purpose of the readings we've been doing for the past few weeks is very simple: to understand how we got here, in other words, the process by which the social mediascape that we are all so familiar with came to be. As we see both in Parmy Olson's book about ChatGPT and *We Are The Nerds*, the countours of that world began to be drawn in the mid-2000s, when the social mediascape was still taking shape. One of the most important sites in this process was Reddit, which was launched in 2005 and quickly became a hub for online communities and discussions.
+
+Social media startups, why they mostly fail, but sometimes achieve astonishing success, is of course something that everyone has been trying to figure out for decades now, and even though the process is understood much better today, there is still no magic bullet. In the early 2000s, even before social media platforms as we know them existed, I remember watching a documentary film called *Startup.com* (2001), which followed the failure of a new-media startup at the time of the bursting of the dot.com bubble around the turn of the millennium. Since then, in recent years there has been an explosion in the historicization of the rise of social media startups, and often their equally precipitous fall. At this point, it's become a new genre of **social media entertainment**, including Netflix/Apple/Max shows and documentaries like:
+
+- [**Living The Stream**](https://youtu.be/_pXyTCYdzBA) (2019), a documentary about Twitch;
+- [**Super Pumped: The Battle for Uber**](https://youtu.be/VMP21LO0Guc)  (2022), on Netflix;
+- [**WeCrashed**](https://youtu.be/UREIAoL0Spk) (2022), about the rise and fall of the office-sharing company WeWork, on Apple TV;
+- [**The Thinking Game**](https://youtu.be/utDDwu6zfTc) (2023), about Demis Hassabis's AI company DeepMind.
+
+I encourage you to check out some of these shows and/or documentaries, and you would be welcome to include any of them in the remaining  assignments for the course.
+
+One of the most surprising things that emerges from the readings from last week and this is the influential role of [Y Combinator](https://www.ycombinator.com/), Paul Graham's startup incubator, whose alums include--as we saw last week--both Sam Altman, the creator of ChatGPT, and Alexis Ohanian and Steve Huffman, the founders of Reddit. Take a look at the website and the list of companies that have emerged from Y Combinator, and it's hard not to be impressed by the sheer number of successful companies that have been launched through the program. Moreover, it's still continuing---perhaps an interesting opening question for you might be this: if you were going to start a new social media platform today, what would it be, and how would you pitch it to Y Combinator?
+
+If nothing else, *We Are The Nerds* provides a useful introduction to the language of new-media startups, most notably Paul Graham's concept of the **minimum viable product** (MVP) (p. 50), the practice of launching an online product as early as possible in order to test the market and gather feedback from users. As you will recall, Sam Altman's approach to AI with ChatGPT has followed exactly the same model (in contrast to Demis Hassabis's with DeepMind), although arguably given its nature the risks are much higher than for the simple launch of a social media news platforms. I wonder how far you think Graham's MVP approach might apply to AI---was Altman irresponsible for launching such a powerful and potentially dangerous product on the internet before it had been propertly tested?
+
+Another useful term that may be new to you is **growth hacking** (p. 54), in reference to Ohanian and Huffman's strategy of creating fake accounts that they used in the early days of Reddit to give the impression of early user activity on the platform and prime the pump of subscriptions. 
+
+I was wondering how many people in the class (if any) are familiar with some of the older social bookmarking sites that are mentioned in the book, notably [Delicious](https://en.wikipedia.org/wiki/Delicious_(website)) and [Digg](https://en.wikipedia.org/wiki/Digg)? Do any of you use these platforms today? Delicious (real name del.icio.us) was one of the first social bookmarking sites that I used, but I used it entirely simply to save my own bookmarks rather than to share them with others. The platform was acquired by Yahoo in 2005 for $20 million. Sites like Delicious may seem old and clunky today, but they remain useful: one of my favorites is [**Pinboard**](https://pinboard.in/); founded by the software developer and internet activist Maciej Cegłowski, it's a simple, open-source, and privacy-respecting alternative to Delicious.
+
+Social bookmarking sites today are most often likely to be web apps. An example is [**Webmarks**](https://webmarks.5apps.com/about), which I tend to use to store important links that I want to remember. Webmarks is part of a new generation of open-source apps called [**zero data apps**](https://0data.app/glance), an initiative intended to return control of our data to the user. I've tried quite a few of the apps on this page, and still use a number of them. Your private data is typically either hosted by an external service such as [**5apps**](https://5apps.com/about), or is self-hosted. I have tried a number of these apps and like them, especially [**Hyperdraft**](https://hyperdraft.app/) and [**Media Kraken**](https://noeldemartin.github.io/media-kraken/login), a zero-date alternative to social movie platforms like [Letterboxd](https://letterboxd.com/). Setup can be a little tricky because many of them are decentralized peer-to-peer apps, but if you like the idea of getting back control over your own data I recommend them. 
+
+So my last question is also the most obvious: do you use Reddit yourself today? If so, what do you use it for?
+
+
+ 
+------------------------------------------------------------------------

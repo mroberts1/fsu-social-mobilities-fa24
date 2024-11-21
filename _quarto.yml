@@ -19,6 +19,8 @@ website:
                file: w2-algorithm.qmd
              - text: W3 Chatbots
                file: w3-chatbots.qmd
+             - text: W4 Nerds
+               file: w4-nerds.qmd
          #- section: "Resources"
           # contents:
            #  - text: ChatGPT
@@ -53,6 +55,12 @@ format:
     smooth-scroll: true
     # linkcolor: "#235440"/
     other-links:
+     - text: "Reddit"
+       href: https://www.reddit.com/
+     - text: "Y Combinator"
+       href: https://www.ycombinator.com/
+     - text: "Paul Graham"
+       href: https://paulgraham.com/articles.html
      - text: "Google Deepmind"
        href: https://deepmind.com
      - text: ChatGPT
