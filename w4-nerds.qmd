@@ -12,7 +12,10 @@ library(palmerpenguins)
 ```
 
 ::: {.content-visible when-format="html"}
-{{< video video/hustle.mp4 >}}[[KRAZAM](https://www.youtube.com/@KRAZAM), **The Hustle**, 2019]{.aside}
+
+{{< video https://www.youtube.com/embed/_o7qjN3KF8U >}}
+
+[[KRAZAM](https://www.youtube.com/@KRAZAM), **The Hustle**, 2019]{.aside}
 :::
 
 ::: {.content-visible when-format="pdf"}
