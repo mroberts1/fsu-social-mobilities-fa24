@@ -19,7 +19,7 @@ library(palmerpenguins)
 [![](img/hustle.jpg)](https://youtu.be/_o7qjN3KF8U)
 :::
 
-## W4: Brotopia: Y Combinator, Reddit, and the Rise of Nerd Culture
+## W4: From Nerds to Tech Bros: The Origins of Reddit
 
 :::{.column-margin}
 [Christine Lagorio-Chafkin](https://x.com/lagorio), **We Are the Nerds**, [part I](pdf/lagorio-wearethenerds-part1.pdf)
