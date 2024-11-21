@@ -47,8 +47,8 @@ format:
     self-contained: true
     grid:
       sidebar-width: 200px
-      body-width: 550px
-      margin-width: 300px
+      body-width: 600px
+      margin-width: 200px
       gutter-width: 2em   
     linestretch: 1.5
     fontsize: 1.1em
