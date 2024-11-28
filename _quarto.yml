@@ -21,6 +21,8 @@ website:
                file: w3-chatbots.qmd
              - text: W4 Nerds
                file: w4-nerds.qmd
+             - text: W5 Witness
+               file: w5-witness.qmd
          #- section: "Resources"
           # contents:
            #  - text: ChatGPT
