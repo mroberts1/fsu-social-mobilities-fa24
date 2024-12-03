@@ -1,0 +1,21 @@
+---
+title: '  '
+toc: false
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+## W6: Wikileaks
+
+<div><video autoplay loop muted playsinline controls="false" width="418"><source src="video/paris.mp4" type="video/mp4"></video></div>
+
+<small>Paris, 31 December 2023, [@28_street](https://youtube.com/shorts/tVTycAffirs?si=NkvSfiFDkc7IKlVK) 
+
+
+

@@ -1,0 +1,15 @@
+{
+  "hash": "27e29965f87b8194bf4536665b333fdd",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: '  '\ntoc: false\n---\n\n\n\n\n\n\n## W6: Wikileaks\n\n<div><video autoplay loop muted playsinline controls=\"false\" width=\"418\"><source src=\"video/paris.mp4\" type=\"video/mp4\"></video></div>\n\n<small>Paris, 31 December 2023, [@28_street](https://youtube.com/shorts/tVTycAffirs?si=NkvSfiFDkc7IKlVK) \n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "hash": "c0efad7008cd7ae0b113b00af48c1a10",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: '  '\ntoc: false\n---\n\n\n\n\n\n\n\n\n\n\n\n\n## W6: Wikileaks\n\n::: {layout=\"[[49, -2, 49]]\"}\n<div><video autoplay loop muted playsinline controls=\"false\" width=\"418\"><source src=\"video/paris.mp4\" type=\"video/mp4\"></video></div>\n\nThis is the second column\n\n:::\n\n\n\n\n\n\n\n\n\n\n{{< video https://www.youtube.com/embed/tVTycAffirs width=\"418\" >}}\n\n",
+    "supporting": [
+      "w6-wikileaks_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": null,
+    "postProcess": false
+  }
+}

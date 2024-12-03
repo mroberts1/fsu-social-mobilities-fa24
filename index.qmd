@@ -13,7 +13,7 @@ library(palmerpenguins)
 # COMM 7007: Social Mobilities
 
 ::: {.content-visible when-format="html"}
-[![](img/coldplay-cellphones.jpeg){fig-cap="Coldplay, Mexico City, 8 April 2022"}](https://x.com/coldplay/status/1512318824112136197){.lighthouse}
+[![](img/coldplay-cellphones.jpeg){fig-cap="Coldplay, Mexico City, 8 April 2022"}](https://x.com/coldplay/status/1512318824112136197)
 :::
 
 :::: {.content-visible when-format="pdf"}
@@ -87,8 +87,6 @@ Available as audiobooks (Audible) and ebooks (Kindle), as well as print.
 [Christine Lagorio-Chafkin](https://x.com/lagorio), **We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory**. New York: Hachette Books, 2018.
 
 [Allissa V. Richardson](https://allissavrichardson.com), **Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism**. Oxford: Oxford University Press, 2020.
-
-Stefania Maurizi, **Secret Power: Wikileaks and Its Enemies**. Pluto Press, 2023.
 
 ------------------------------------------------------------------------
 
@@ -211,9 +209,13 @@ Allissa V. Richardson, **Bearing Witness While Black**
 
 Week 6: Tuesday 3 December 2024
 
-**Whistleblower**
+**Girl**
 
-Stefania Maurizi, **Secret Power: Wikileaks and Its Enemies**
+- Freya India, "[You Don't Need to Document Everything](https://substack.com/@freyaindia/p-140277246)" (**SubStack**, 16 January 2024)
+
+- Alex Quicho, "[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)" (**WIRED**, 11 September 2023)
+
+- Emma Copley Eisenberg, "[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)" (**heyalma**, 10 August 2017)
 
 ------------------------------------------------------------------------
 
