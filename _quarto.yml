@@ -23,6 +23,8 @@ website:
                file: w4-nerds.qmd
              - text: W5 Witness
                file: w5-witness.qmd
+             - text: W6 Girl
+               file: w6-girl.qmd
          #- section: "Resources"
           # contents:
            #  - text: ChatGPT
