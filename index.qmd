@@ -12,6 +12,16 @@ library(palmerpenguins)
 
 # COMM 7007: Social Mobilities
 
+<div>
+
+<video autoplay loop muted playsinline controls="false" width="100%">
+
+<source src="video/paris.mp4" type="video/mp4">
+
+</video>
+
+</div>
+
 ::: {.content-visible when-format="html"}
 [![](img/coldplay-cellphones.jpeg){fig-cap="Coldplay, Mexico City, 8 April 2022"}](https://x.com/coldplay/status/1512318824112136197)
 :::
@@ -126,7 +136,7 @@ Regular participation in weekly discussion and other channels (20%)
 2 short analysis papers (500 words, 2 pages double-spaced) based on any of the reading assignments, due on Blackboard by end of Weeks 2 and 4 (Sunday) (20%)
 
 **Book Report**\
-Critical review (1,000 words, 4 pages double-spaced) of any text from the select bibliography. You are expected to read at least one additional chapter from any of the main course books. For texts scheduled in weeks 5-6, you'll need to read ahead. Due on Blackboard by Sunday  of Week 5 (20%)
+Critical review (1,000 words, 4 pages double-spaced) of any text from the select bibliography. You are expected to read at least one additional chapter from any of the main course books. For texts scheduled in weeks 5-6, you'll need to read ahead. Due on Blackboard by Sunday of Week 5 (20%)
 
 **Research paper/report/creative project**  2,000 words, due on Blackboard by Sunday of Week 7 (20%)
 

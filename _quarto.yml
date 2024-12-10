@@ -49,11 +49,12 @@ format:
       dark: [ember.scss, custom_callouts.scss, slate]
     css: custom.scss
     self-contained: true
-    grid:
-      sidebar-width: 200px
-      body-width: 600px
-      margin-width: 200px
-      gutter-width: 2em   
+    page-layout: full
+    # grid:
+    #   sidebar-width: 200px
+    #   body-width: 600px
+    #   margin-width: 200px
+    #   gutter-width: 2em   
     linestretch: 1.5
     fontsize: 1.1em
     smooth-scroll: true
@@ -82,7 +83,7 @@ format:
      - text: Suno
        href: https://suno.com
     link-external-newwindow: true
-  PrettyPDF-pdf: default
+  # PrettyPDF-pdf: default
 callout-appearance: default
 fig-responsive: true
 image-alt: " "
