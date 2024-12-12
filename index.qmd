@@ -14,7 +14,7 @@ library(palmerpenguins)
 
 <div>
 
-<video autoplay loop muted playsinline controls="false" width="100%">
+<video autoplay loop muted playsinline controls="false" width="50%">
 
 <source src="video/paris.mp4" type="video/mp4">
 
@@ -22,24 +22,26 @@ library(palmerpenguins)
 
 </div>
 
-::: {.content-visible when-format="html"}
-[![](img/coldplay-cellphones.jpeg){fig-cap="Coldplay, Mexico City, 8 April 2022"}](https://x.com/coldplay/status/1512318824112136197)
-:::
+<small>*Champs Élysées, Paris, 31 December 2023-1 January 2024</small>  
 
-:::: {.content-visible when-format="pdf"}
-::: {layout="[[49, -2, 49]]"}
-[![](img/coldplay-cellphones.jpeg){fig-cap="Coldplay, Mexico City, 8 April 2022"}](https://x.com/coldplay/status/1512318824112136197)]
+<!-- ::: {.content-visible when-format="html"} -->
+<!-- [![](img/coldplay-cellphones.jpeg){fig-cap="Coldplay, Mexico City, 8 April 2022"}](https://x.com/coldplay/status/1512318824112136197) -->
+<!-- ::: -->
 
-[Fitchburg State University](https://fitchburgstate.edu)\
-[Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
-[MS in Applied Communication: Social Media Concentration](https://www.fitchburgstate.edu/academics/programs/social-media-concentration-applied-communication-ms-online)\
-GCE Online-Accelerated\
-7 weeks, Tues 29 October---Tues 17 December 2024\
-Instructor: Martin Roberts\
-[Syllabus](https://mroberts1.github.io/fsu-smt-su24)\
-[{{< fa regular envelope >}}](mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands github >}}](https://github.com/mroberts1/fsu-social-mobilities-fa24) \| [{{< fa brands discord >}}](https://discord.gg/GUSz99EP) \| [{{< fa brands youtube >}}](https://www.youtube.com/playlist?list=PLx7AcHafElRiGpYPLRM29YzNMMEXyDqmh)
-:::
-::::
+<!-- :::: {.content-visible when-format="pdf"} -->
+<!-- ::: {layout="[[49, -2, 49]]"} -->
+<!-- [![](img/coldplay-cellphones.jpeg){fig-cap="Coldplay, Mexico City, 8 April 2022"}](https://x.com/coldplay/status/1512318824112136197)] -->
+
+<!-- [Fitchburg State University](https://fitchburgstate.edu)\ -->
+<!-- [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\ -->
+<!-- [MS in Applied Communication: Social Media Concentration](https://www.fitchburgstate.edu/academics/programs/social-media-concentration-applied-communication-ms-online)\ -->
+<!-- GCE Online-Accelerated\ -->
+<!-- 7 weeks, Tues 29 October---Tues 17 December 2024\ -->
+<!-- Instructor: Martin Roberts\ -->
+<!-- [Syllabus](https://mroberts1.github.io/fsu-smt-su24)\ -->
+<!-- [{{< fa regular envelope >}}](mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands github >}}](https://github.com/mroberts1/fsu-social-mobilities-fa24) \| [{{< fa brands discord >}}](https://discord.gg/GUSz99EP) \| [{{< fa brands youtube >}}](https://www.youtube.com/playlist?list=PLx7AcHafElRiGpYPLRM29YzNMMEXyDqmh) -->
+<!-- ::: -->
+<!-- :::: -->
 
 ## Overview
 
