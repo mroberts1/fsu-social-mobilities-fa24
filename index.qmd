@@ -12,7 +12,7 @@ library(palmerpenguins)
 
 <div><video autoplay loop muted playsinline controls="false" width="50%"><source src="video/paris.mp4" type="video/mp4"></video></div>
 
-<small>*Champs Élysées, Paris, 31 December 2023-1 January 2024* \[[Source](https://youtube.com/shorts/rTkAPCbjvnI?si=bRO6og7ZKjMr_-kx)\]</small>
+> *Champs Élysées, Paris, 31 December 2023-1 January 2024* \[[Source](https://youtube.com/shorts/rTkAPCbjvnI?si=bRO6og7ZKjMr_-kx)\]  
 
 ## Overview
 
