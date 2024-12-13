@@ -41,7 +41,7 @@ website:
 format:
   html:
     toc: true
-    toc-depth: 2
+    toc-depth: 1
     toc-location: right
     toc-title: '   '
     theme:

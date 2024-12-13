@@ -1,5 +1,5 @@
 ---
-title: '  '
+title: 'COMM 7007 Social Mobilities'
 ---
 
 ```{r}
@@ -10,70 +10,13 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-# COMM 7007: Social Mobilities
+<div><video autoplay loop muted playsinline controls="false" width="50%"><source src="video/paris.mp4" type="video/mp4"></video></div>
 
-<div>
-
-<video autoplay loop muted playsinline controls="false" width="50%">
-
-<source src="video/paris.mp4" type="video/mp4">
-
-</video>
-
-</div>
-
-<small>*Champs Élysées, Paris, 31 December 2023-1 January 2024</small>  
-
-<!-- ::: {.content-visible when-format="html"} -->
-<!-- [![](img/coldplay-cellphones.jpeg){fig-cap="Coldplay, Mexico City, 8 April 2022"}](https://x.com/coldplay/status/1512318824112136197) -->
-<!-- ::: -->
-
-<!-- :::: {.content-visible when-format="pdf"} -->
-<!-- ::: {layout="[[49, -2, 49]]"} -->
-<!-- [![](img/coldplay-cellphones.jpeg){fig-cap="Coldplay, Mexico City, 8 April 2022"}](https://x.com/coldplay/status/1512318824112136197)] -->
-
-<!-- [Fitchburg State University](https://fitchburgstate.edu)\ -->
-<!-- [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\ -->
-<!-- [MS in Applied Communication: Social Media Concentration](https://www.fitchburgstate.edu/academics/programs/social-media-concentration-applied-communication-ms-online)\ -->
-<!-- GCE Online-Accelerated\ -->
-<!-- 7 weeks, Tues 29 October---Tues 17 December 2024\ -->
-<!-- Instructor: Martin Roberts\ -->
-<!-- [Syllabus](https://mroberts1.github.io/fsu-smt-su24)\ -->
-<!-- [{{< fa regular envelope >}}](mailto:mrober40@fitchburgstate.edu) \| [{{< fa brands github >}}](https://github.com/mroberts1/fsu-social-mobilities-fa24) \| [{{< fa brands discord >}}](https://discord.gg/GUSz99EP) \| [{{< fa brands youtube >}}](https://www.youtube.com/playlist?list=PLx7AcHafElRiGpYPLRM29YzNMMEXyDqmh) -->
-<!-- ::: -->
-<!-- :::: -->
+<small>*Champs Élysées, Paris, 31 December 2023-1 January 2024.* \[[Source](https://youtube.com/shorts/rTkAPCbjvnI?si=bRO6og7ZKjMr_-kx)\]</small>
 
 ## Overview
 
 This seminar is an exploration of what it means to live with personal, portable, and handheld media technologies. We will study these technologies across time and space by situating them within their historical contexts and by studying their use in various settings. We'll also employ a variety of theoretical frameworks and interdisciplinary approaches. Simultaneously, we will attempt to analyze and theorize our own handheld media experiences through and against the course readings.
-
-<!-- :::::: solutionbox -->
-
-<!-- :::: solutionbox-header -->
-
-<!-- ::: solutionbox-icon -->
-
-<!-- ::: -->
-
-<!-- To theorize something involves a number of processes -->
-
-<!-- :::: -->
-
-<!-- ::: solutionbox-body -->
-
-<!-- -   first, how do we define the phenomenon or object of study itself? How does it differ from previous or other related phenomena? -->
-
-<!-- -   how are we to account for it? Why did it happen/is it happening now rather than at some other time? What are its conditions of possibility? -->
-
-<!-- -   what is its relation to larger areas of society? What are its implications for those areas? -->
-
-<!-- -   how are we to evaluate it, in terms of its implications (political, economic, social, ethical, legal, environmental, aesthetic)? What are its possibilities and limits, its progressive and oppressive aspects? How can we change it for the better? -->
-
-<!-- ::: -->
-
-<!-- :::::: -->
-
-<!-- These processes involve developing analytical frameworks or models comprising concepts that are useful for identifying and analyzing key aspects of and issues raised by the phenomenon/object in question. These frameworks and concepts typically draw from existing ones in different fields of study, but often involve the proposal of new frameworks and concepts specific to the field in question. -->
 
 ## Objectives
 
@@ -214,8 +157,8 @@ Week 5: Tuesday 26 November 2024
 
 Allissa V. Richardson, **Bearing Witness While Black**
 
-- "[Looking As Rebellion: The Concept of Black Witnessing](pdf/richardson-bearing-witness-ch1.pdf)" (ch. 1)
-- "[The New Protest \#Journalism: Black Witnessing as Counternarrative](pdf/richardson-bearing-witness-ch3.pdf)" (ch. 3) 
+-   "[Looking As Rebellion: The Concept of Black Witnessing](pdf/richardson-bearing-witness-ch1.pdf)" (ch. 1)
+-   "[The New Protest #Journalism: Black Witnessing as Counternarrative](pdf/richardson-bearing-witness-ch3.pdf)" (ch. 3) 
 
 ------------------------------------------------------------------------
 
@@ -223,11 +166,11 @@ Week 6: Tuesday 3 December 2024
 
 **Girl**
 
-- [Freya India](https://www.freyaindia.co.uk/about), "[You Don't Need to Document Everything](https://substack.com/@freyaindia/p-140277246)" (**SubStack**, 16 January 2024)
+-   [Freya India](https://www.freyaindia.co.uk/about), "[You Don't Need to Document Everything](https://substack.com/@freyaindia/p-140277246)" (**SubStack**, 16 January 2024)
 
-- Alex Quicho, "[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)" (**WIRED**, 11 September 2023)
+-   Alex Quicho, "[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)" (**WIRED**, 11 September 2023)
 
-- Emma Copley Eisenberg, "[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)" (**heyalma**, 10 August 2017)
+-   Emma Copley Eisenberg, "[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)" (**heyalma**, 10 August 2017)
 
 ------------------------------------------------------------------------
 
